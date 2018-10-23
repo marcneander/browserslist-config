@@ -12,6 +12,9 @@
 </p>
 
 # browserslist-config
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/marcneander/browserslist-config.svg)](https://greenkeeper.io/)
+
 ## Install
 
 `yarn add --dev @marcneander/browserslist-config`
