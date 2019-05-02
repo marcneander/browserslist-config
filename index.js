@@ -1,4 +1,3 @@
 module.exports = [
-    '> 1%',
-    'not dead'
+    '> 1% in SE'
 ];
